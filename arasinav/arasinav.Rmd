@@ -1,7 +1,7 @@
 ---
 title: "Çalışmanızın Başlığı"
 author: 
-  - İsim Soyisim[^1]
+  - matin shahpalangov[^1]
 bibliography: ../bibliography/biblio.bib
 csl: ../csl/apa-tr.csl
 header-includes:
@@ -32,7 +32,7 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 <!-- ============================== NOTLAR ================================= -->
 <!-- ======================================================================= -->
-[^1]: Öğrenci Numarası, [Github Repo](https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ)
+[^1]: 21080688, [Github Repo](https://github.com/metinshahpalangov/arasinav)
 
 # Vize Hakkında Önemli Bilgiler
 
