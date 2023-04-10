@@ -1,5 +1,5 @@
 ---
-title: "Çalışmanızın Başlığı"
+title: "Pandemi ve Artan harcamalar"
 author: 
   - matin shahpalangov[^1]
 bibliography: ../bibliography/biblio.bib
@@ -34,27 +34,26 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 [^1]: 21080688, [Github Repo](https://github.com/metinshahpalangov/arasinav)
 
-# Vize Hakkında Önemli Bilgiler
 
-\colorbox{BurntOrange}{GITHUB REPO BAĞLANTINIZI BU DOSYANIN 35. SATIRINA YAZINIZ!}
-
-**Proje önerisi gönderimi, Github repo linki ile birlikte ekampus sistemine bir zip dosyası yüklenerek yapılacaktır. Sisteme zip dosyası yüklemezseniz ve Github repo linki vermezseniz ara sınav ve final sınavlarına girmemiş sayılırsınız.**
-
-**Proje klasörünüzü sıkıştırdıktan sonra (`YourStudentID.zip` dosyası) 16 Nisan 2023 23:59'a kadar *ekampus.ankara.edu.tr* adresine yüklemeniz gerekmektedir.**
-
-\colorbox{WildStrawberry}{Daha fazla bilgi için proje klasöründeki README.md dosyasını okuyunuz.}
 
 # Giriş
-Bu taslak size proje ödevinizi yazarken yardımcı olması amacıyla oluşturulmuştur. Ödevlerinizde, makalelerinizde, sunumlarınızda ve projelerinizde kullandığınız tüm bilgi kaynaklarına atıfta bulunmalısınız. Alıntı ve gönderme yapmak okuyuculara çalışmanızda kullandığınız/başvurduğunuz  kaynaklara ulaşma imkanı sağlar. **Her ne kadar kendi sözlerinizi kullanıyor olsanız da, başkalarına ait fikirleri çalışmanızda aktarıyorsanız bu fikirlerin kaynağını belgelemek zorundasınız. Aksi takdirde akademik intihal yapmış olursunuz.** Yazım konusunda @aydinonat:2007'ye başvurabilirsiniz. 
+2020 yılında tüm dünyayı etkisi altına alan COVID-19 pandemisi, sağlık hizmetlerinin önemini bir kez daha gösterdi. Pandeminin sebep olduğu sağlık sorunlarına yönelik hizmetlerin artması, sağlık harcamalarının da artmasına sebep oldu. Amerika Birleşik Devletleri'nde sağlık harcamaları 2020 yılında yüksek bir artış gösterirken, 2021 yılında artış oranı düşerek devam etti. Bu veriler pandemi döneminde artan sağlık harcamaları ve sağlık sektörüne yönelik devlet harcamalarının etkisini incelemek için önemli bir fırsat sunuyor.
 
 
-Proje ödevinizde yer alan başlıkların bu metinde yer alan başlıkları kesinlikle içermesi gerekmektedir (doğal olarak ilk bölüm başlığı hariç). Burada kullanılan başlıklar haricinde farklı alt başlıklar da kullanabilirsiniz. Projenizi yazarken bu dosyayı taslak olarak kullanıp içeriğini projenize uyarlayınız.
 
 ## Çalışmanın Amacı
-Bu bölümde yaptığınız çalışmanın amacından ve öneminden birkaç paragraf ile bahsediniz.
+Bu projenin amacı, Amerika Birleşik Devletleri'nde pandemi döneminde artan sağlık harcamalarının ana sebeplerini ve bu harcamaların sağlık sektörüne etkilerini incelemektir. Bu amaç doğrultusunda aşağıdaki sorulara cevap aranacaktır:
+
+Pandemi döneminde Amerika Birleşik Devletleri'nde sağlık harcamaları nasıl bir artış gösterdi?
+Artışın ana sebepleri nelerdir?
+Pandeminin sağlık sektörüne etkisi nedir?
+Devlet harcamalarının artışa etkisi nedir?
+Sağlık harcamalarındaki bu artışın gelecekteki etkileri nelerdir?
 
 ## Literatür 
-Bu bölümde konu ile ilgili olarak okuduğunuz makaleleri referans vererek tartışınız. **Her makaleyi ayrı başlık altında tek tek özetlemeyiniz.** Literatür taramasında **en az dört** makaleye atıf yapılması ve bu makalelerden **en az ikisinin İngilizce** olması gerekmektedir.
+Örneğin, American Medical Association (AMA) tarafından yayınlanan bir raporda, pandemi döneminde sağlık harcamalarının artış oranının 2.7% olduğu belirtilmektedir. Bu artışın ana sebebi, pandemi ile ilgili hükümet harcamalarındaki düşüşe rağmen, ertelenmiş sağlık hizmetlerinin ve pent-up talebin artmasıdır. Aynı raporda, sağlık harcamalarının 2021 yılında GSYİH'nin %18.3'üne karşılık geldiği belirtilmektedir.
+
+Başka bir çalışmada, The Commonwealth Fund tarafından yayınlanan bir raporda, pandemi nedeniyle sağlık hizmetleri talebindeki artışın, hastanelerdeki yoğunluğun ve sağlık personeli eksikliğinin, özellikle de yoğun bakım ünitelerindeki eksik
 
 
 **_Taslakta bu cümleden sonra yer alan hiçbir şey silinmemelidir._**
